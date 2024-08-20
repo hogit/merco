@@ -21,7 +21,7 @@
   "dependencies": {
     "async": "^2.5.0",
     "lodash": "^4.17.4",
-    "terser": "^5.31.6"
+    "uglify-js": "^3.19.1"
   },
   "devDependencies": {
     "chai": "~1.6",
